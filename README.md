@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chintan Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintanrathod08&label=Profile%20views&color=0e75b6&style=flat" alt="chintanrathod08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chintanrathod08" alt="chintanrathod08" /></a> </p>
 
 - 🔭 I’m currently working on **React Projects**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGYlZmbx44/fVVDPHzWrnfIlduWcLvWDw/view?utm_content=DAGYlZmbx44&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ca202ab5](https://www.canva.com/design/DAGYlZmbx44/fVVDPHzWrnfIlduWcLvWDw/view?utm_content=DAGYlZmbx44&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ca202ab5)
 
 <h3 align="left">Connect with me:</h3>
+<p>+91 9033159452</p>
+
 <p align="left">
 <a href="https://linkedin.com/in/chintan rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chintan rathod" height="30" width="40" /></a>
 </p>
@@ -22,3 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chintanrathod08&show_icons=true&locale=en" alt="chintanrathod08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chintanrathod08&" alt="chintanrathod08" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintanrathod08&label=Profile%20views&color=0e75b6&style=flat" alt="chintanrathod08" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chintanrathod08" alt="chintanrathod08" /></a> </p>
+
