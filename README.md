@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **React Projects**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAGYlZmbx44/fVVDPHzWrnfIlduWcLvWDw/view?utm_content=DAGYlZmbx44&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ca202ab5](https://www.canva.com/design/DAGYlZmbx44/fVVDPHzWrnfIlduWcLvWDw/view?utm_content=DAGYlZmbx44&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ca202ab5)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chintan rathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chintan rathod" height="30" width="40" /></a>
