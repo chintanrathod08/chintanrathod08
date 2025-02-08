@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chintanrathod2002@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://www.canva.com/design/DAGYlZmbx44/fVVDPHzWrnfIlduWcLvWDw/view?utm_content=DAGYlZmbx44&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc0ca202ab5">Resume</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/drive/folders/1zn094jkVw1x76sgSaGJWlCgACJ0if-wu">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
