@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFDtPkSENuHwg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1671616513190?e=2147483647&v=beta&t=hEXJ5s6WR4tod3lIEO6np8nCHQtnO-FsGZ3qzsgqwHE" atl="" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFDtPkSENuHwg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1671616513190?e=2147483647&v=beta&t=hEXJ5s6WR4tod3lIEO6np8nCHQtnO-FsGZ3qzsgqwHE" atl="" style="border-radius: 10px;" />
 
 <h1>Hi 👋, I'm Chintan Rathod</h1>
 
